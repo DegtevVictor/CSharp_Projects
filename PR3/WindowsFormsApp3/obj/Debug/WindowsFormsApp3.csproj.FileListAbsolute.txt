@@ -8,3 +8,13 @@ C:\Users\Student\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Window
 C:\Users\Student\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
 C:\Users\Student\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
 C:\Users\Student\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Student\Desktop\C# Дегтев Виктор\CSharp_Projects\PR3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Student\Desktop\C# Дегтев Виктор\CSharp_Projects\PR3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Student\Desktop\C# Дегтев Виктор\CSharp_Projects\PR3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Student\Desktop\C# Дегтев Виктор\CSharp_Projects\PR3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\C# Дегтев Виктор\CSharp_Projects\PR3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Student\Desktop\C# Дегтев Виктор\CSharp_Projects\PR3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Student\Desktop\C# Дегтев Виктор\CSharp_Projects\PR3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\C# Дегтев Виктор\CSharp_Projects\PR3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\C# Дегтев Виктор\CSharp_Projects\PR3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Student\Desktop\C# Дегтев Виктор\CSharp_Projects\PR3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb

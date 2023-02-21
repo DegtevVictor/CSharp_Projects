@@ -18,7 +18,6 @@ namespace WindowsFormsApp3
         public Form1()
         {
             InitializeComponent();
-            SetupGame();
             button3.Visible = true;
         }
 
@@ -42,12 +41,12 @@ namespace WindowsFormsApp3
 
             else if (userNum < randNum)
             {
-                label3.Visible = true;
+                label4.Visible = true;
             }
 
             else if (userNum > randNum)
             {
-                label4.Visible = true;
+                label3.Visible = true;
             }
 
             if ((hodCount == maxCount) &&(!gameFinished))
