@@ -7,19 +7,28 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800"
         WindowStartupLocation="CenterScreen"
-        SizeToContent="Height">
+        SizeToContent="WidthAndHeight">
     <StackPanel>
+        <Image Height="63" Source="Equalation.png" Stretch="None" Width="221" HorizontalAlignment="Left"/>
         <WrapPanel>
-            <Label Content="i: " MinWidth="70"/>
+            <Label Content="X: " MinWidth="70"/>
+            <TextBox x:Name="textBox4" Width="75"/>
+        </WrapPanel>
+        <WrapPanel>
+            <Label Content="Y: " MinWidth="70"/>
+            <TextBox x:Name="textBox5" Width="75"/>
+        </WrapPanel>
+        <WrapPanel>
+            <Label Content="N: " MinWidth="70"/>
             <TextBox x:Name="textBox1" Width="75"/>
         </WrapPanel>
         <WrapPanel>
-            <Label Content="j: " MinWidth="70"/>
+            <Label Content="K: " MinWidth="70"/>
             <TextBox x:Name="textBox2" Width="75"/>
         </WrapPanel>
         <WrapPanel>
             <Label Content="Результат:" MinWidth="70"/>
-            <TextBox x:Name="textBox3" Width="75"/>
+            <TextBox x:Name="textBox3" Width="75" IsReadOnly="True"/>
         </WrapPanel>
         <Button x:Name="button1" Content="Вычислить" Width="75" Margin="0" HorizontalAlignment="Left" Click="button1_Click"/>
     </StackPanel>

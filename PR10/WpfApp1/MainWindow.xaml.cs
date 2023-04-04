@@ -27,6 +27,8 @@ namespace WpfApp1
 
         private void button1_Click(object sender, RoutedEventArgs e)
         {
+            double x = double.Parse(textBox4.Text);
+            double y = double.Parse(textBox5.Text);
             int n = int.Parse(textBox1.Text);
             int k = int.Parse(textBox2.Text);
             double z = 0;
@@ -34,10 +36,10 @@ namespace WpfApp1
             {
                 for (int j = 1; j <= k; j++)
                 {
-
+                    z += (Math.Abs(Math.Pow(x, i)) + Math.Cos(y) + Math.Pow(y, i)) / (i * j);
                 }
-            }    
-                textBox3.Text = z;
+            }
+            textBox3.Text = z.ToString();
         }
     }
 }
